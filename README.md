@@ -7,7 +7,7 @@
 - Estimates exit price and close date based on fifo method
 - Adds additional metrics like profit and performance
 
-## Quick Use
+## Install
 ```python
 git clone https://github.com/Crypto-AI/Poloniexport
 cd Poloniexport
