@@ -17,3 +17,9 @@ python poloniexport.py
 
 ## Examples
 #### Basic Usage
+```python
+import poloniexport
+
+history = poloniexport.exportTrades(key, secret)
+history.to_csv('history.csv')
+```
