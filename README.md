@@ -8,7 +8,7 @@
 - Adds additional metrics like profit and performance
 
 ## Install
-```python
+```text
 git clone https://github.com/Crypto-AI/Poloniexport
 cd Poloniexport
 pip install -r requirements.txt
